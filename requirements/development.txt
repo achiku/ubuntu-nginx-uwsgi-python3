@@ -1,0 +1,7 @@
+-r test.txt
+alembic==0.8.8
+awsebcli==3.9.0
+flask-sqlacodegen==1.1.6.1
+mypy-lang==0.4.6
+flake8==3.2.1
+isort==4.2.5

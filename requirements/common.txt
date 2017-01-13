@@ -1,8 +1,11 @@
-alembic==0.8.8
+boto3==1.4.3
+blinker==1.4
 SQLAlchemy==1.1.4
 Flask==0.11.1
-raven==5.32.0
-flask-sqlacodegen==1.1.6.1
 Flask-Script==2.0.5
 Flask-SQLAlchemy==2.1
+raven==5.32.0
 psycopg2==2.6.2
+Pillow==3.4.2
+requests==2.9.1
+jsonschema==2.5.1
